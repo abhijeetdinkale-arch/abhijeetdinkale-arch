@@ -23,7 +23,7 @@ proton                 kotlin / compose / fhir  doctor workstation that listens 
 y3k-lockdown-browser   rust / pledge / sandbox  air-gapped exam runtime with JA3 anti-fingerprint
 obsedian-research-os   python / hnsw / louvain  knowledge graph OS that clusters research notes
 daily-selfie-app       kotlin / spring-physics  timelapse camera with zero-jank fluid physics
-developer-journal      adr / markdown           architecture decisions, benchmark logs & notes
+project-arc            python / agentic-copilot clinical diagnostic assistance & workflow engine
 ```
 
 ---
